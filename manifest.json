@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "AA-PROMPTS",
+    "version": "1.0",
+    "description": " This extension helps a student do exercises online by getting the meaning of the selected word or right answer from options ",
+    "permissions": ["activeTab","http://lawforlow.mywebcommunity.org/"],
+    "content_scripts": [
+      {
+        "matches": [
+    "<all_urls>"
+  ],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ],
+    "icons": {
+      "48": "icon.png"
+    },
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    }
+  }
+  
