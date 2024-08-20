@@ -1,13 +1,15 @@
-[
-    "https://jobkaseg.github.io/host_api/prompts.json", 
-    "https://jobkaseg.github.io/host_api/prompts1.json", 
-    "https://jobkaseg.github.io/host_api/prompts2.json", 
-    "https://jobkaseg.github.io/host_api/prompts3.json", 
-    "https://jobkaseg.github.io/host_api/prompts4.json", 
-    "https://jobkaseg.github.io/host_api/prompts5.json", 
-    "https://jobkaseg.github.io/host_api/prompts6.json", 
-    "https://jobkaseg.github.io/host_api/prompts7.json", 
-    "https://jobkaseg.github.io/host_api/prompts8.json", 
-    "https://jobkaseg.github.io/host_api/prompts9.json", 
-    "https://jobkaseg.github.io/host_api/prompts10.json"
-]
+{
+    "prompts_urls": [
+        "https://jobkaseg.github.io/host_api/prompts.json", 
+        "https://jobkaseg.github.io/host_api/prompts1.json", 
+        "https://jobkaseg.github.io/host_api/prompts2.json", 
+        "https://jobkaseg.github.io/host_api/prompts3.json", 
+        "https://jobkaseg.github.io/host_api/prompts4.json", 
+        "https://jobkaseg.github.io/host_api/prompts5.json", 
+        "https://jobkaseg.github.io/host_api/prompts6.json", 
+        "https://jobkaseg.github.io/host_api/prompts7.json", 
+        "https://jobkaseg.github.io/host_api/prompts8.json", 
+        "https://jobkaseg.github.io/host_api/prompts9.json", 
+        "https://jobkaseg.github.io/host_api/prompts10.json"
+    ]
+}
