@@ -1,7 +1,4 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
-
-const urls = [
+[
     "https://jobkaseg.github.io/host_api/prompts.json", 
     "https://jobkaseg.github.io/host_api/prompts1.json", 
     "https://jobkaseg.github.io/host_api/prompts2.json", 
@@ -13,15 +10,4 @@ const urls = [
     "https://jobkaseg.github.io/host_api/prompts8.json", 
     "https://jobkaseg.github.io/host_api/prompts9.json", 
     "https://jobkaseg.github.io/host_api/prompts10.json"
-];
-
-async function combineJSONFiles() {
-    const promises = urls.map(url => fetch(url).then(res => res.json()));
-    const results = await Promise.all(promises);
-    const combinedResult = [].concat(...results);
-
-    fs.writeFileSync('combined_prompts.json', JSON.stringify(combinedResult, null, 2));
-    console.log('Combined JSON file created successfully.');
-}
-
-combineJSONFiles();
+]
