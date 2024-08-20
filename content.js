@@ -1,4 +1,4 @@
-const OPEN_API_KEY = "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";
+const OPEN_API_KEY = "";
 const PROMPTS_URLS = [
     "https://jobkaseg.github.io/host_api/prompts.json", 
     "https://jobkaseg.github.io/host_api/prompts1.json", 
