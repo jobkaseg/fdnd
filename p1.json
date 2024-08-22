@@ -1,6 +1,6 @@
 [
     {
-        "language": "English-Kinyarwanda",
+        "language": "English-Kinyarwanda-",
         "prompt": "Translate the following word or sentence from English-Kinyarwanda: \"{selectedText}\"."
          },
            {  "language": "Kinyarwanda-English",
