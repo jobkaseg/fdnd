@@ -1,23 +1,19 @@
 [
     {
-        "language": "English-Kinyarwanda-",
-        "prompt": "Translate the following word or sentence from English-Kinyarwanda: \"{selectedText}\"."
+        "language": "",
+        "prompt": "If a aword or a phrase or a sentence is selected, your task is to give Explaination. If a multiple choice question is selected ,your task is to give the correct answer: \"{selectedText}\"."
          },
-           {  "language": "Kinyarwanda-English",
-        "prompt": "Translate the following word or sentence from Kinyarwanda-English: \"{selectedText}\"."
+           {  "language": "Choose the correct answer",
+        "prompt": "Choose the correct answer from the given options in the frowing question: \"{selectedText}\"."
      },
-         {   "language": "French-English",
-        "prompt": "Translate the following word or sentence from French-English: \"{selectedText}\"."
+         {   "language": "Explain",
+        "prompt": "Explain the following: \"{selectedText}\"."
      },
-          {  "language": "English-French",
-        "prompt": "Translate the following word or sentence from English-French: \"{selectedText}\"."
+          {  "language": "Give its synonyms",
+        "prompt": " Generate at list 4 sysnonyms of the following: \"{selectedText}\"."
      },
-           {"language": "Kiswahili-English",
-        "prompt": "Translate the following word or sentence from Kiswahili-English: \"{selectedText}\"."
-     },
-          {  "language": "English-Kiswahili",
-        "prompt": "Translate the following word or sentence from English-Kiswahili: \"{selectedText}\"."
-
-    }
+           {"language": "Summarize",
+        "prompt": "Summarize the following: \"{selectedText}\"."
+     }
    
 ]
