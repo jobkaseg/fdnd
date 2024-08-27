@@ -1,2 +1,3 @@
-Selected Text: OPULATION, SAMPLING
-Correction: POPULATION, ÉCHANTILLONNAGE.
+Selected Text: rmation on the various categories of respondents, including the number of students, teachers, and administrati
+Correction: Explanation:
+This sentence is describing the information collected on different groups of people who have participated in a survey or study. It includes details such as the number of students, teachers, and administration members who were involved in the research. This data helps provide context and demographics for the findings of the study.
