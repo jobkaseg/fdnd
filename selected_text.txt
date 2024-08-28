@@ -1,2 +1,5 @@
-Selected Text: header('Content-Type: application/json');
-Correction: This line of code is used in PHP to specify that the content being returned by the server is in JSON format. This is commonly used when building APIs or when returning data from a server to be consumed by a client application. It tells the client application how to interpret the data being returned.
+Selected Text: AW Nº 11/2003 OF 20/05/2003 MODIFYING AND COMPLEMENTING THE LAW NO 47/2000 OF 19 DECEMBER 2000 MODIFYING AND COMPLEMENTING THE LAW OF 15 APRIL 1963 CONCERNING THE ADMINISTRATION OF THE REPUBLIC OF RWANDA AS MODIFIED AND COMPLEMENTED TO DATE.",
+"LAW Nº 45/2001 OF 08/12/2001 DETERMINING THE NATIONAL ANTHEM OF THE REPUBLIC OF RWANDA",
+"AGREEMENT ESTABLISHING THE AFRICAN REINSURANCE CORPORATION (AFRICARE)",
+"CONSTITUTION OF THE INTERNATIONAL TELECOMMUNICATION UNION",
+Correction: Explanation: This text contains references to various laws and agreements related to the administration and governance of Rwanda, specifically modifications and complements to existing laws and the establishment of international organizations.
