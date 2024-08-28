@@ -1,3 +1,2 @@
-Selected Text: rmation on the various categories of respondents, including the number of students, teachers, and administrati
-Correction: Explanation:
-This sentence is describing the information collected on different groups of people who have participated in a survey or study. It includes details such as the number of students, teachers, and administration members who were involved in the research. This data helps provide context and demographics for the findings of the study.
+Selected Text: header('Content-Type: application/json');
+Correction: This line of code is used in PHP to specify that the content being returned by the server is in JSON format. This is commonly used when building APIs or when returning data from a server to be consumed by a client application. It tells the client application how to interpret the data being returned.
