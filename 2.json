@@ -1,6 +1,7 @@
 {
     "urls": [
  	"https://jobkaseg.github.io/fdnd/p1.json",
-    "https://jobkaseg.github.io/fdnd/prompts19.json"
+    "https://jobkaseg.github.io/fdnd/prompts19.json",
+         "https://jobkaseg.github.io/fdnd/laws.json"
     ]
 }
