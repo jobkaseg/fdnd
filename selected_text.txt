@@ -1,5 +1,2 @@
-Selected Text: AW Nº 11/2003 OF 20/05/2003 MODIFYING AND COMPLEMENTING THE LAW NO 47/2000 OF 19 DECEMBER 2000 MODIFYING AND COMPLEMENTING THE LAW OF 15 APRIL 1963 CONCERNING THE ADMINISTRATION OF THE REPUBLIC OF RWANDA AS MODIFIED AND COMPLEMENTED TO DATE.",
-"LAW Nº 45/2001 OF 08/12/2001 DETERMINING THE NATIONAL ANTHEM OF THE REPUBLIC OF RWANDA",
-"AGREEMENT ESTABLISHING THE AFRICAN REINSURANCE CORPORATION (AFRICARE)",
-"CONSTITUTION OF THE INTERNATIONAL TELECOMMUNICATION UNION",
-Correction: Explanation: This text contains references to various laws and agreements related to the administration and governance of Rwanda, specifically modifications and complements to existing laws and the establishment of international organizations.
+Selected Text: Rwanda
+Correction: Rwanda is a country located in East Africa known for its stunning landscapes, wildlife, and vibrant culture. It is also sadly known for the genocide that took place in 1994, where an estimated 800,000 people were killed in just 100 days. Despite this dark chapter in its history, Rwanda has made significant progress in reconciliation and rebuilding, and is now considered one of the safest and most stable countries in Africa.
