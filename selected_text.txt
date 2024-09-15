@@ -1,65 +1,84 @@
 Selected Text: Rwanda
-Correction: OF KIGALI
+Correction: Chapter I: General Provisions
 
-CHAPTER 1: GENERAL PROVISIONS
-
-Article 1: Purpose
-
-This Law governs the organization, administration, and governance of the District of Kigali.
+Article 1: Scope of Application
+This law shall govern all matters relating to persons and families, including but not limited to marriage, divorce, adoption, custody, and inheritance.
 
 Article 2: Definitions
+For the purposes of this law, the following definitions shall apply:
+- Person: Any individual recognized as a legal entity under the law.
+- Family: A group of persons related by blood, marriage, or adoption.
+- Guardian: A person legally appointed to care for and protect the interests of a minor or incapacitated person.
+- Custody: The legal right and responsibility to care for and make decisions on behalf of a child.
 
-For the purposes of this Law, the following terms shall have the following meanings:
-- "District" means the District of Kigali.
-- "Mayor" means the head of the District.
-- "District Council" means the legislative body of the District.
-- "District Executive Committee" means the executive body of the District.
+Chapter II: Marriage
 
-CHAPTER 2: ORGANIZATION AND ADMINISTRATION OF THE DISTRICT
+Article 3: Requirements for Marriage
+Marriage shall be a voluntary union between a man and a woman, entered into with mutual consent and in accordance with the law.
 
-Article 3: District Council
+Article 4: Registration of Marriage
+All marriages shall be registered with the appropriate authorities in accordance with the procedures established by law.
 
-1. The District Council is the supreme decision-making body of the District.
-2. The District Council shall consist of elected representatives of the people of the District.
-3. The District Council shall have the power to enact laws, approve the District budget, and oversee the administration of the District.
+Article 5: Rights and Responsibilities of Spouses
+Spouses shall have equal rights and responsibilities within the marriage, including but not limited to the right to inherit from each other and the duty to provide support and assistance to one another.
 
-Article 4: Mayor
+Chapter III: Divorce
 
-1. The Mayor shall be the head of the District and shall be elected by the people of the District.
-2. The Mayor shall be responsible for the administration and governance of the District.
-3. The Mayor shall preside over the District Executive Committee.
+Article 6: Grounds for Divorce
+Divorce may be granted on the following grounds:
+- Adultery
+- Abuse
+- Abandonment
+- Incompatibility
 
-Article 5: District Executive Committee
+Article 7: Procedures for Divorce
+Divorce proceedings shall be initiated by one or both parties filing a petition with the appropriate court. The court shall then conduct an investigation and may issue a decree of divorce if it finds sufficient grounds for the dissolution of the marriage.
 
-1. The District Executive Committee shall be responsible for implementing the decisions of the District Council and managing the day-to-day affairs of the District.
-2. The District Executive Committee shall be composed of the Mayor and other appointed members.
+Chapter IV: Adoption
 
-CHAPTER 3: GOVERNANCE OF THE DISTRICT
+Article 8: Adoption Process
+Adoption shall be a legal procedure by which a person or couple becomes the legal parent(s) of a child who is not biologically their own. The adoption process shall be governed by the provisions of this law and any other applicable laws.
 
-Article 6: Duties and Powers of the Mayor
+Article 9: Rights and Responsibilities of Adoptive Parents
+Adoptive parents shall have the same rights and responsibilities as biological parents, including but not limited to the duty to provide for the child's welfare, education, and upbringing.
 
-1. The Mayor shall represent the District in its relations with other entities.
-2. The Mayor shall implement the decisions of the District Council and oversee the work of the District Executive Committee.
+Chapter V: Custody
 
-Article 7: Fiscal Management
+Article 10: Determination of Custody
+In cases where parents are unable to agree on custody arrangements for their child, the court shall intervene and issue a custody order based on the best interests of the child.
 
-1. The District shall have complete control over its finances and shall prepare and submit an annual budget to the District Council for approval.
-2. The District Council shall approve the budget and oversee the fiscal management of the District.
+Article 11: Rights of Custodial Parents
+The custodial parent shall have the right to make decisions concerning the child's upbringing, education, and healthcare, subject to any court orders or agreements to the contrary.
 
-CHAPTER 4: MISCELLANEOUS PROVISIONS
+Chapter VI: Inheritance
 
-Article 8: Implementation
+Article 12: Rules of Inheritance
+Inheritance shall be governed by the rules of succession established by law, which may include provisions for the distribution of assets among heirs and the payment of debts and taxes.
 
-The Government shall implement this Law.
+Article 13: Wills and Estate Planning
+Individuals may also make a will or engage in estate planning to determine the distribution of their assets after their death, subject to the requirements and limitations set forth in the law.
 
-Article 9: Entry Into Force
+Chapter VII: Enforcement and Penalties
 
-This Law shall enter into force on the date of its publication in the Official Gazette.
+Article 14: Enforcement of the Law
+This law shall be enforced by the appropriate judicial and administrative authorities in accordance with their respective competencies.
 
-Done at Kigali, on 09/10/2021
+Article 15: Penalties for Violations
+Any person found guilty of violating the provisions of this law shall be subject to the penalties prescribed by law, which may include fines, imprisonment, or other sanctions as deemed appropriate by the court.
 
-(signed)
+Chapter VIII: Final Provisions
 
-President of the Republic
+Article 16: Effective Date
+This law shall enter into force on the date of its publication in the Official Gazette.
 
-Prime Minister
+Article 17: Repeal of Previous Laws
+Any provisions of previous laws that are inconsistent with the provisions of this law shall be repealed.
+
+Article 18: Transitional Provisions
+All matters pending before the courts at the time of the entry into force of this law shall be governed by its provisions.
+
+Done at the Legislative Palace in the city of Lisbon, on the 26th day of June in the year 2024.
+
+The President of the Republic,
+The Prime Minister,
+The Minister of Justice.
