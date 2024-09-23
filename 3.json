@@ -1,3 +1,16 @@
 {
-    "key": "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"
+  "names": [
+    {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson"
+    }
+  ]
 }
