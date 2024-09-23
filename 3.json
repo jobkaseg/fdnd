@@ -1,16 +1,9 @@
 {
-  "names": [
-    {
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "firstName": "Jane",
-      "lastName": "Smith"
-    },
-    {
-      "firstName": "Michael",
-      "lastName": "Johnson"
-    }
+  "validNames": [
+    "Alice",
+    "Bob",
+    "Charlie",
+    "David",
+    "Eve"
   ]
 }
