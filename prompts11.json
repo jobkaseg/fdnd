@@ -1,82 +1,136 @@
 [
     {
-        "language": "English",
-        "prompt": "You are an English teacher. Indicate the grammatical errors and why they are wrong in the following sentence: \"{selectedText}\"."
+        "language": "NATIONAL POLICY OF UNITY AND RECONCILIATION",
+        "prompt": "NATIONAL POLICY OF UNITY AND RECONCILIATION"
     },
-    {
-        "language": "Spanish",
-        "prompt": "Eres un profesor de español. Indica los errores gramaticales y por qué están mal en la siguiente oración: \"{selectedText}\"."
+
+ {
+        "language": "I. INTRODUCTION",
+        "prompt":"The National Unity and Reconciliation Policy is mainly based on principles of Good Governance that Rwanda has committed itself to follow and hence, it is based on the Constitution of the Republic of Rwanda of 2003 amended in 2015. The content of this policy relates closely to the Arusha Peace Agreement (1993), Urugwiro Consultations (1998\n-1999), various community consultations and researches that the National Unity and Reconciation Commission undertook since 1999. This document comprises underlying reasons for establishing a National Unity and Reconciliation Policy, the nature and origin of the socio\n-political problems in Rwanda, the guiding principles towards building unity and reconciliation, objectives and strategies governing the implementation of the policy.The Policy acknowledges that, the wanton destruction of the National Unity and that its reconstruction is an inevitable obligation of all Rwandans. It emphasizes that unity and reconciliation is the option that Rwanda has adopted. It is the responsibility of every Rwandan to strive for these values and to ensure that they are attained, preserved and safeguarded. The policy underscores the importance of the synergy derived from participation of every individual and all institutions. Hence, the National Unity and Reconciliation Policy particularly, defines the role played by every individual and every institution."
     },
-    {
-        "language": "Portuguese",
-        "prompt": "Você é um professor de português. Indique os erros gramaticais e por que estão errados na seguinte frase: \"{selectedText}\"."
+
+ {
+        "language": "1.1. The definition of unity and reconciliation",
+        "prompt": "Unity and reconciliation of Rwandans is defined as a consensus practice of citizens who have common Nationality, who share the same culture and have equal rights; citizens characterized by trust, tolerance, mutual respect, equality, complementarity, truth, and healing of one another’s wounds inflicted by their dark history, with the objectives of laying a foundation for development in sustainable peace. To attain this, it requires a radical change of the Rwandan society and willingness to transform Rwanda into a reconciled and united nation in which all citizens have equal freedom and a country that has a common vision for a better future."
     },
-    {
-        "language": "French",
-        "prompt": "Vous êtes professeur de français. Indiquez les erreurs grammaticales et pourquoi elles sont fausses dans la phrase suivante: \"{selectedText}\"."
+
+ {
+        "language": "1.2. The nature of the problem",
+        "prompt":"Rwanda has gone through various historical eras of bad governance characterized by divisions and discriminations based on ethnicity, religion, region of origin and nepotism which have had devastating effects on its people’s social relations. Some of those effects include divisions, discrimination of all kinds, persecutions, killings, exile of some Rwandans, war and Genocide against Tutsi. Genocide ideology and other divisive ideologies propagated by some Rwandans continue to manifest even after the 1994 Genocide against Tutsi; this poses serious impediment to the process of unity and reconciliation."
     },
-    {
-        "language": "German",
-        "prompt": "Sie sind Deutschlehrer. Geben Sie die grammatikalischen Fehler an und warum sie falsch sind im folgenden Satz: \"{selectedText}\"."
+ {
+        "language": "1.3. The vision of National Unity and Reconciliation Policy",
+        "prompt":"The vision of National Unity and
+Reconciliation Policy is striving for a united,
+peaceful and prosperous nation."
     },
-    {
-        "language": "Italian",
-        "prompt": "Sei un insegnante di italiano. Indica gli errori grammaticali e perché sono sbagliati nella seguente frase: \"{selectedText}\"."
+
+ {
+        "language": "1.4. Objectives of the National Unity and Reconciliation Policy",
+        "prompt":"1.4.1. Overall objective The global objective of the National Policy of Unity and Reconciliation is to build a united Rwanda in which all citizens have equal rights and are free to fully participate in the governance and development of their country."
     },
-    {
-        "language": "Chinese",
-        "prompt": "你是一位中文老师。指出以下句子中的语法错误并解释为什么它们是错误的: \"{selectedText}\"."
+ {
+        "language": "1.4.2. Specific objectives",
+        "prompt":"The following are specific objectives of this Policy: \n- To fight any form of divisionism and discrimination; \n- To fight against genocide ideology; \n- To sensitize Rwandans at all levels, to strive and value their unity; \n- To empower Rwandans with the capacity to analyze their problems and find adequate solutions; \n- To promote a culture of peace based on trust, tolerance and respect for human rights; \n- To mentor Rwandans on patriotic values and on actively playing part in the governance of their country; \n- To promote values existing in the Rwandan culture that contribute to social cohesion and wellbeing of Rwandans."
     },
-    {
-        "language": "Japanese",
-        "prompt": "あなたは日本語の先生です。次の文の文法的な誤りと、それがなぜ誤りであるかを指摘してください: \"{selectedText}\"."
+ {
+        "language": "1.5. The heavily weighing effects of Genocide against Tutsi on Rwandan society",
+        "prompt":"Some of those effects include: \n- Trauma and wounds resulted from Genocide against Tutsi; \n- Single aged persons; \n- Child headed households; \n- Widows and widowers of Genocide; \n- Issue of compensation and reparation to the Genocide Survivors; \n- Skepticism and distrust observed among the Rwandan society due to their past history; \n- Loss of some ethical and Rwandan cultural values that were used to guide harmonious interpersonal relations among Rwandans and to seal their unity ; \n- Large number of genocide perpetrators in prisons has an impact on national economy and survival of their own families ; \n- Family conflicts; \n- Poverty and ignorance."
     },
-    {
-        "language": "Russian",
-        "prompt": "Вы учитель русского языка. Укажите грамматические ошибки и почему они ошибочны в следующем предложении: \"{selectedText}\"."
+ {
+        "language": "II. UNDERLYING REASON FOR NATIONAL UNITY AND RECONCILIATION POLICY",
+        "prompt":"After a long history of divisions and discrimination that culminated in the Genocide against Tutsi, the Government of Rwanda believes that unity and reconciliation of Rwandans is the cornerstone in reconstructing a nation characterized by the rule of law and a nation with a clear vision for sustainable development. This fact is emphasized in the fundamental principles and home grown solutions of National Constitution, in its article 10 which stipulates the self reliance principle and in the article 139 which institutes the National Unity and Reconciliation Commission. The National Unity and Reconciliation Policy therefore, will serve as a monitoring and evaluation tool designed to measure achievements made, challenges encountered and strategies put in place by various organs in forstering unity and reconciliation."
     },
-    {
-        "language": "Arabic",
-        "prompt": "أنت معلم لغة عربية. حدد الأخطاء النحوية ولماذا هي خاطئة في الجملة التالية: \"{selectedText}\"."
+ {
+        "language": "III. GUIDING PRINCIPLES FOR BUILDING UNITY AND RECONCILIATION",
+        "prompt":"\n1. To promote the spirit of Rwandan identity and giving precedence to national interests, instead of ethnicity, blood relations, gender, religions, region of \norigin, and others; \n2. To combat genocide and its ideology; \n3. To strive at creating a nation governed by the rule of law and respect for human rights; \n4. To combat any form of divisions and discrimination; \n5. Promotion of solidarity and synergy in nation building; \n6. Mutual healing of wounds while building trust based on truth telling, repentance and forgiveness for bright future; \n7. To commemorate the Genocide against Tutsi with the aim of making “Never Again” a reality; \n8. To strive for dignity and have passion for work."
     },
-    {
-        "language": "Korean",
-        "prompt": "당신은 한국어 교사입니다. 다음 문장에서 문법 오류와 그 이유를 지적하십시오: \"{selectedText}\"."
+ {
+        "language": "IV.STRATEGIES",
+        "prompt":"In order to reach the goals of the national unity and reconciliation policy, the following strategies will be used:"
     },
-    {
-        "language": "Hindi",
-        "prompt": "आप हिंदी के शिक्षक हैं। निम्नलिखित वाक्य में व्याकरण संबंधी त्रुटियों और उनके गलत होने का कारण बताएं: \"{selectedText}\"."
+ {
+        "language": "4.1. Integrating unity and reconciliation in the action plans of different Institutions:",
+        "prompt":"In order to promote the unity and reconciliation, different institutions such as Government institutions, private sector, civil society organizations and others have to mainstream unity and reconciliation in their respective programs."
     },
-    {
-        "language": "Turkish",
-        "prompt": "Türkçe öğretmenisiniz. Aşağıdaki cümledeki dilbilgisi hatalarını ve neden yanlış olduklarını belirtiniz: \"{selectedText}\"."
+ {
+        "language": "4.2. Improve the framework to share information on unity and reconciliation",
+        "prompt":"Unity and reconciliation need to be discussed on regular basis. This will be done through dialogues organized at different levels focusing on Rwandan history and the heavy effects of a divisive past, the status of unity and reconciliation, challenges and strategies to be used in promoting and preserving unity and reconciliation. Under this strategy, there will be a continuation of fostering partnership with stakeholders that include Government institutions, decentralized entities, civil society organizations, political organizations and political leaders, churches, research institutions and other partners."
     },
-    {
-        "language": "Dutch",
-        "prompt": "U bent een Nederlandse leraar. Geef de grammaticale fouten en waarom ze fout zijn in de volgende zin: \"{selectedText}\"."
+
+ {
+        "language": "4.3. Civic education",
+        "prompt":"\n- To ensure that the History of Rwanda is taught at all levels of the community; \n- To promote “Ndi Umunyarwanda “dialogues at all levels of the community; \n- To sensitize Rwandans on their rights and to respect the rights of others; \n- To instil the culture of peace, focusing on family, the youth and schools; \n- To educate Rwandans share the national vision and to participate in different Government programs ; \n- To explain to the people of Rwanda the meaning of National symbols; \n- To teach unity and reconciliation in all levels of education in the country; \n- To fight against all forms of divisionism and genocide ideology \n- To sensitize Rwandans to strive for their dignity and have passion for work; \n- To establish specific unity and reconciliation programs targeting Rwandan Community Abroad; \n- To empower people in various positions of leadership to become exemplary servant leaders; Also, unity and reconciliation is cross\n-cutting and every Rwandan is concerned. However, some categories of people need special attention. Among them are: \n- Youth and women; \n- Political leaders and decision makers; \n- Former perpetrators of the Genocide against Tutsi; \n- Survivors of the Genocide against Tutsi; \n- Journalists and Media Leaders; \n- Faith based organizations leaders; \n- Teachers and students; \n- Scholars and researchers; \n- Local leaders and opinion leaders."
     },
-    {
-        "language": "Greek",
-        "prompt": "Είστε καθηγητής ελληνικών. Υποδείξτε τα γραμματικά λάθη και γιατί είναι λάθος στην ακόλουθη πρόταση: \"{selectedText}\"."
+
+ {
+        "language": "4.4. Conduct research",
+        "prompt":"\n- To carry out research on uniting values found in rwandan culture with the aim of using them as catalyst for promotion of unity and reconciliation and sustainable peace; \n- To carry out research on prevailing obstacles to unity and reconciliation of Rwandans and to put in place strategies to remedy them; \n- To disseminate ideas and publications that promotes peace, unity and reconciliation of Rwandans; \n- To conduct research on the history of Rwanda so that Rwandans know their real history, for them to have knowledge about their past, understand their present and reflect their future."
     },
-    {
-        "language": "Swedish",
-        "prompt": "Du är en svensklärare. Ange grammatiska fel och varför de är fel i följande mening: \"{selectedText}\"."
+ {
+        "language": "4.5. Advocacy",
+        "prompt":"\n- To support activities that are promoting unity and reconciliation of Rwandans; \n- To monitor whether the laws and government’s programs conform to the principles of unity and reconciliation; \n- To fight against all forms of injustice and to eradicate the culture of impunity by ensuring functional rule of law; \n- To support initiatives that assist those affected by Genocide against Tutsi and its effects; \n- To improve living conditions and promote socio\n-economic development of categories of Rwandans historically marginalized; \n- To participate in the activities of the period dedicated to the reflection on unity and reconciliation every year; \n- To support activities which promote commemoration of Genocide against Tutsi with the aim of making “Never Again” a reality;  {
+        "language": "4.6 Consultative dialogues \n- To provide Rwandans with a safe fora, in which Rwandans can enable them contribute ideas that promote their social cohesion; \n- To promote the culture of constructive exchanges and debates and respect for other people’s ideas despite differences of opinion; \n- To assess problems and come up with own solutions; \n- To keep active participation in the activities of the period dedicated to reflection on annual unity and reconciliation.  {
+        "language": "4.7 Promotion of partnership \n- To have consultative fora that have initiatives that promote unity and reconciliation and to coordinate interventions of partners in unity and reconciliation; \n- To strengthen capacity of unity and reconciliation focal points; \n- To promote programs of unity and reconciliation within various institutions in the country; \n- To build capacity of partners operating in the area of unity and reconciliation at various levels of the community (Abarinzi b’Igihango, unity and reconciliation clubs, community mobilisers and associations of unity and reconciliation)."
     },
-    {
-        "language": "Polish",
-        "prompt": "Jesteś nauczycielem języka polskiego. Wskaż błędy gramatyczne i dlaczego są one błędne w następującym zdaniu: \"{selectedText}\"."
+
+ {
+        "language": "4.8 Fight against poverty and ignorance",
+        "prompt":"\n- Sensitize parents on fighting poverty and ignorance by sending their children to school; \n- Promote critical thinking within Rwandans; \n- Sensitize Rwandans to join profit making Associations and Cooperatives; \n- Mentor and promote among Rwandans the culture of creating jobs; \n- Sensitize the private sector and nonGovernmental Organisations in general to invest in rural areas; \n- Sensitize the Rwandan Community Abroad to actively participate in economic development of their country."
     },
-    {
-        "language": "Vietnamese",
-        "prompt": "Bạn là giáo viên tiếng Việt. Chỉ ra lỗi ngữ pháp và lý do chúng sai trong câu sau: \"{selectedText}\"."
+
+ {
+        "language": "4.9 Promote psychosocial healing in Rwandan community",
+        "prompt":" \n- Coordinate healing activities, sharing information and advocacy to reach Rwandans in need; \n- Sensitize partners to train counselors in trauma for helping people in need; \n- Take care of people with psychological trauma problems; \n- Promote of dialogues for healing of the wounds of the history that Rwandans went through; \n- To establish special counselling services on trauma in general."
     },
-    {
-        "language": "Thai",
-        "prompt": "คุณเป็นครูสอนภาษาไทย ระบุข้อผิดพลาดทางไวยากรณ์และเหตุผลที่พวกเขาผิดในประโยคต่อไปนี้: \"{selectedText}\"."
+ {
+        "language": "4.10 Monitoring and Evaluation",
+        "prompt":"\n- To observe how public and private institutions, local or international nongovernmental organizations operating in Rwanda, leaders and Rwandans in general, comply with the national unity and reconciliation principles and policy; \n- To put in place efficient mechanisms to detect acts hindering unity and reconciliation of Rwandans with the aim of finding remedy to them and preventing divisions; \n- To denounce and fight any divisive activities publications and /or utterances; \n- To monitor implementation of any resolutions taken in relation to unity and reconciliation of Rwandans; \n- To reinforce capacities aiming at promoting unity and reconciliation at all levels."
     },
-    {
-        "language": "Hebrew",
-        "prompt": "אתה מורה לעברית. ציין את השגיאות הדקדוקיות ולמה הן שגויות במשפט הבא: \"{selectedText}\"."
+ {
+        "language": "V. THE ROLE OF VARIOUS INSTITUTIONS IN THE IMPLEMENTATION OF NATIONAL UNITY AND RECONCILIATION POLICY",
+        "prompt":"This National Policy of Unity and Reconciliation concerns every institution operating in the country and all Rwandans. All institutions and Rwandans must be involved in its implementation."
+    },
+
+ {
+        "language": "5. 1. Decentralized entities",
+        "prompt":"\n- To disseminate the National Unity and Reconciliation Policy among the community so that they own it and take part in its implementation \n- To consider with unity and reconciliation policy in the local governments’ performance contracts; \n- To sensitize the community on unity and reconciliation; \n- To monitor and evaluate unity and reconciliation among the population; \n- To support community initiatives that promote unity and reconciliation, publicly recognize and where possible award exemplary community initiatives of unity and reconciliation and other Government programs; \n- To work together with community mobilizers (unity and reconciliation volunteers, associations, clubs and Abarinzi b’Igihango) in promoting unity and reconciliation; \n- To support community in the fight against poverty and ignorance as they constitute challenges to unity and reconciliation; \n- To sensitize the population to fight against discrimination, divisions and genocide ideology."
+    },
+
+ {
+        "language": "5.2. Central Government",
+        "prompt":"\n- To mainstream National Unity and Reconciliation Policy in action plans of all institutions of the country; \n- To build capacity of unity and reconciliation focal person in every institution; \n- To ensure that, adopted and amended laws, decisions taken and various national programs respect the principles of unity and reconciliation; \n- The Ministry of Justice in particular, has the responsibility of educating Rwandans and foreigners on laws punishing discrimination and genocide ideology; \n- Institutions to comply with the national policy of unity and reconciliation in their particular functions and responsibilities; \n- To fight any form of discrimination, division and genocide Ideology."
+    },
+ {
+        "language": "5.3. Civil society Organizations (religious institutions, media, non-Governmental organizations)",
+        "prompt":"\n- To play their part in bringing about people’s healing process, truth telling, repentance, forgiveness and to help build trust and hope for the future; \n- To contribute in popularizing National programs designed for unity and social welfare of the citizens; \n- To play their part in fighting poverty and ignorance especially among the rural community since are challenges to unity and reconciliation; \n- To fight any form of discrimination, division and genocide ideology."
+    },
+
+ {
+        "language": "5.4. Private Sector",
+        "prompt":"\n- To fight any form of discrimination in employment with the aim of promoting unity and reconciliation while emphasizing the principle of gender equality; \n- To demonstrate active participation in combating poverty and promoting investment for jobs creation especially in rural area."
+    },
+ {
+        "language": "5.5. Political Organizations",
+        "prompt":" \n- To avoid practices that divide people along ethnic line, blood\n-relations, religion, region of origin, gender and other divisive tendencies; \n- To sensitize their members, to promote unity and reconciliation and to denounce any manifestation of discrimination and genocide ideology; \n- To instil the culture of tolerance and mutual respect among the Rwandan society; \n- To work within the democratic framework as it gives people ownership of their own choice of action; \n- To support justice and eradication of the culture of impunity."
+    },
+ {
+        "language": "5.6. Development partners",
+        "prompt":"\n- To support unity and reconciliation programs; \n- To support community initiatives that promote unity and reconciliation; \n- To mainstream unity and reconciliation in all community based programs/activities they fund."
+    },
+
+ {
+        "language": "5.7. Rwandan society in general",
+        "prompt":"\n- To promote Rwandan identity; \n- To strive for unity and reconciliation in their day\n-to\n-day life; \n- To avoid and combat any form of divisionism and genocide ideology; \n- To aim at telling the truth on History of Rwanda; \n- To be patriotic; \n- To promote education that instills social cohesion; \n- To cooperate and have solidarity; \n- To develop mutual trust and tolerance; \n- To participate in the implementation of government programs; \n- To aim at national development and passion to work; \n- To strive for dignity and selfdetermination."
+    },
+
+ {
+        "language": "5.8. The role of the National Unity and  Reconciliation Commission",
+        "prompt":" \n- Planning and coordinating National programs meant for promoting unity and reconciliation; \n- Setting up and promoting mechanisms for consolidating unity and reconciliation; \n- Advising and sensitizing Rwandans on National unity and reconciliation issues; \n- Conducting research, organizing debates, disseminating initiatives and publishing documents aimed at putting in place new strategies designed to enhance unity and reconciliation among Rwandans; \n- Developing strategic measures designed to eradicate divisions among Rwandans within and outside the country for the reinforcement of national unity and reconciliation; \n- Denouncing and fighting any acts or document or statement meant to fuel any form of discrimination and xenophobia; \n- Making reports on national unity and reconciliation annually and at any time deemed necessary; \n- Monitoring as to how public and private institutions, local or international nongovernmental organizations operating in Rwanda, leaders and Rwandans in general, comply with the national unity and reconciliation principles and policy; \n- Collaborating with other local or foreign institutions whose activities are related to the responsibilities of the Commission for the promotion of unity and reconciliation."
+    },
+
+ {
+        "language": "VI.CONCLUSION",
+        "prompt":"Unity and Reconciliation is the responsibility of every Rwandan and every institution. It is the only option for peace that Rwanda committed itself to follow after the discriminatory and divisive politics that culminated in Genocide against Tutsi. This policy provides guidelines for all institutions and Rwandans in general, to fulfill this obligation. It is important, therefore, to create a synergy and complement one another to promote a Rwandan Identity (Ubunyarwanda) rather than ethnicity, and have a Nation where every citizen has equal rights."
     }
 ]
