@@ -1,82 +1,157 @@
 [
-    {
-        "language": "English",
-        "prompt": "You are an English teacher. Indicate the grammatical errors and why they are wrong in the following sentence: \"{selectedText}\"."
+
+{
+        "language": "VOLUNTEERISM POLICY PAPER 2012 -BY NATIONAL ITORERO COMMISSION",
+        "prompt":"VOLUNTEERISM POLICY PAPER 2012 -BY NATIONAL ITORERO COMMISSION"
     },
+
+
     {
-        "language": "Spanish",
-        "prompt": "Eres un profesor de español. Indica los errores gramaticales y por qué están mal en la siguiente oración: \"{selectedText}\"."
+        "language": "Glossary of Unconventional Words",
+        "prompt":"Abiru The sacred institution - equivalent to modern day parliament \nAbunzi Mediators \nGacaca Traditional judicial courts \nIndangagaciro The traditional value system of Rwanda \nIngobyi The traditional ambulance \nItorero The custodian of Rwandan values and norms \nKirazira Taboos and vices \nUbudehe Communal work \nUmuganda Community service \nUmusanzu Communal service \nKwitanga To surrender one’s self (to accomplishment an assignment) \nNjyanama Volunteer local government councils"
     },
-    {
-        "language": "Portuguese",
-        "prompt": "Você é um professor de português. Indique os erros gramaticais e por que estão errados na seguinte frase: \"{selectedText}\"."
+
+ {
+        "language": "I. Background",
+        "prompt":"Volunteering and Volunteerism are strongly embedded in the Rwandan culture. Volunteerism in Rwanda’s tradition featured through self-help and mutual aid activities as well as caring for the weak and rendering community service. The main motivation behind volunteerism in Rwanda is to alleviate socio-economic constraints experienced by individuals or their communities and improve their quality of life. Rwandans relied heavily on volunteerism through mutual help activities such as “ubudehe” and “umuganda” or “umusanzu” which involved several families getting together to work together on projects like communal farming, crop harvesting, and construction of shelter and thatching as well as maintenance of public infrastructure and management of the environment. \nThe volunteer culture in the Rwandan society was natured and fostered by the institution called “itorero” which trained and inculcated in the minds of Rwandans of all ages a set of values – “indangagaciro” and preached against taboos and vices – “kirazira” which provided benchmarks for the value system upon which the Rwanda Society is founded. It is through itorero that the culture of serving the country with a high sense of patriotism, responsibility, selflessness and volunteerism was inculcated among the Rwandans. \nThe spirit of volunteerism transcended the Rwandan social structure and was relied upon by the national leadership institutions operating under the king as an effective tool of mobilizing people for national and community service activities including among others; security, disaster relief and other social economic community services. The volunteerism spirit was used at all levels among Rwandans to address issues confronting society at various levels."
     },
-    {
-        "language": "French",
-        "prompt": "Vous êtes professeur de français. Indiquez les erreurs grammaticales et pourquoi elles sont fausses dans la phrase suivante: \"{selectedText}\"."
+ {
+        "language": "1.1. The concept of Volunteerism",
+        "prompt":"The International Labor Organization (ILO) proposes the following working definition of volunteerism. “unpaid non-compulsory work, that is, time that individuals give without pay to activities performed either through an organization of directly for others outside their own household.” Therefore the key elements to be considered according to the ILO definition are: work, unpaid, non-compulsory or non-obligatory work, work not done for family members. \nThe definition of volunteerism is strongly influenced by the history, politics, religion and culture of a community. What might be seen as volunteering in one country might be dismissed as low paid or labor intensive in another. However what is important is to ensure that all necessary elements that qualify a certain activity to be voluntary are present."
     },
-    {
-        "language": "German",
-        "prompt": "Sie sind Deutschlehrer. Geben Sie die grammatikalischen Fehler an und warum sie falsch sind im folgenden Satz: \"{selectedText}\"."
+ {
+        "language": "1.2. Volunteerism in the Rwandan context",
+        "prompt":"The term Volunteerism in the Rwandan context, is referred to as: “ubwitange”, which literally means a “free will action”, performed out of self-motivation and passion. Ubwitange includes, amongst others, volunteering activities such as umuganda, gutanga umusanzu, guheka abarwayi (providing ambulance services to sick members of the community). \n \nAccording to the adopted Itorero strategy, Volunteerism is defined as: “the practice of \npeople working for a particular cause without payment for their time and services. It is \nthe desire to undertake by choice and free will a task or work for the benefit of the \nwider community beyond the volunteer’s immediate family and friends” \nVolunteerism in Rwanda is exhibited through provision of services to the community \nsuch as Umuganda, Ubudehe, Umusanzu (Communal self-help activities based on solidarity), \nAbunzi, local government councils (Njyanama), Gacaca judges, electoral commission \nagents, community health workers (abajyanama b’ubuzima), traditional birth \nattendants etc., that do not involve any salary payment in return and done out of free \nwill for the purpose of benefiting the whole community. \n \nVolunteerism is manifested by carrying out activities especially in the framework of volunteer-involving organizations without expecting payment for the service rendered. This is normally executed through civil society organizations, faith based organizations, nongovernmental organizations, international organizations, public and corporate companies. \n \nTo sum up, based on the criteria mentioned above and taking into account the specificity of the Rwandan context, a volunteer activity in Rwanda, is defined as: \n \nA Self-motivated action, performed by an individual or a group of individuals who contribute their time, skills, advice, talents and passion to the provision of services for the benefit of the larger community, without expecting a salary. The volunteers might however be entitled to stipends intended to cover some of the expenses incurred for the accomplishment of the volunteering activity."
     },
-    {
-        "language": "Italian",
-        "prompt": "Sei un insegnante di italiano. Indica gli errori grammaticali e perché sono sbagliati nella seguente frase: \"{selectedText}\"."
+ {
+        "language": "1.3. Preferred Option in the Rwandan Context",
+        "prompt":"Based on the concept of Ubwitange (National Service) that was used by Rwandans in rebuilding and developing pre-colonial Rwanda, the preferred option to guide our volunteer activities is National Service. Opting for National Service is mainly due to the following principal reasons: \n(i) Rwandans in pre-colonial Rwanda applied National Service in state rebuilding and led the Country to great achievements hence need to be re-adopted; \n(ii) National service is carried out by nationals and non-nationals without expecting any pay for the work accomplished unlike Volunteerism where the Volunteer expects some little pay for the work done; \n(iii) Nationals and non-nationals engaged in National Service activities may later participate in Volunteerism activities as a recognition of their dedicated and committed services to their State;"
     },
-    {
-        "language": "Chinese",
-        "prompt": "你是一位中文老师。指出以下句子中的语法错误并解释为什么它们是错误的: \"{selectedText}\"."
+
+ {
+        "language": "2. Rationale for establishing a volunteerism policy in Rwanda",
+        "prompt":"nThe government of Rwanda has used the volunteerism mechanism in various sectors especially in local government, the judiciary, health sector etc to achieve developmental goals. It is against this background that success stories have been registered in instances where volunteerism has been used. For example according to the study conducted by the Center of Conflict Management, of the National University of Rwanda, Gacaca was rated at 87% satisfaction rate on the process and outcome. Today the number of volunteers used nationwide to achieve developmental goals by far supersede that of salaried employees. \n \nFrom the above experiences and lessons Rwanda has adopted national service based on a blended model (voluntary and compulsory). The target group for the compulsory category is youth between the ages of 18 – 35 years completing their secondary education. Other categories of the population will be allowed to participant on a voluntary basis depending on their time, professional background and identified priorities. \n \nDespite the fact that there are voluntary interventions in various sectors which Rwandan government has used volunteerism in such sectors like local governance, justice, health and electoral processes, there has been no harmonized and coordinated framework for managing the volunteers. \n \nThis Policy is aimed at providing guidance on the management, rights, responsibilities and roles for both the volunteers and the volunteering organizations. In a more concrete sense the rationale of the policy is to: \n \na) Educate Rwandans the culture of volunteerism through activities of national development \nb) Provide a framework where people are able to make effective use of their special skills and access untapped potential which is an additional contribution to national development \nc) Build pride among volunteers for their role in volunteer work for increasing national production skills development associated with the volunteering activities. \nd) Provide an appropriate institutional framework for effective management, coordination and use of existing and future volunteer activities and resources. \ne) Provide a mechanism through which volunteer services can be recorded and accorded national recognition."
     },
-    {
-        "language": "Japanese",
-        "prompt": "あなたは日本語の先生です。次の文の文法的な誤りと、それがなぜ誤りであるかを指摘してください: \"{selectedText}\"."
+ {
+        "language": "2.1. Vision for the Volunteerism policy",
+        "prompt":"The volunteerism culture is fully embedded in the Rwandan people and institutions and effectively used as a vehicle for realization of the EDPRS targets and vision 2020 developmental aspirations"
     },
-    {
-        "language": "Russian",
-        "prompt": "Вы учитель русского языка. Укажите грамматические ошибки и почему они ошибочны в следующем предложении: \"{selectedText}\"."
+
+ {
+        "language": "2.2. Objectives of the policy",
+        "prompt":"The broad objective of the volunteerism policy is to embed volunteerism in the national development process in order to tap the human resources potential and professionals to convert them into active agents of the social and economic transformation; Specific policy objectives are to; \n \ni. Support and promote the concept of volunteerism and the positive benefits it brings to volunteer-using organizations, individual volunteers, their communities and the nation as a whole; \nii. Incorporate volunteer services in the national planning process and ensure that there is a volunteer service component in all sector strategic plans as well as institutional and district development plans; \niii. Establish a national coordination framework to effectively harness the national and international volunteer resources at the country’s disposal; \niv. Put in place an effective volunteer management system to address issues of volunteer recruitment, contracting, placement/matching, training/skills development, supervision and appraisal, retention and exit management; \nv. Develop a framework through which the contribution of individual volunteers are recognized, facilitated, protected while at work and networked; \nvi. Establish a mechanism to effectively measure volunteer effort in terms of the value of their contribution to socio-economic development and the cost implication of delivering volunteer services;"
     },
-    {
-        "language": "Arabic",
-        "prompt": "أنت معلم لغة عربية. حدد الأخطاء النحوية ولماذا هي خاطئة في الجملة التالية: \"{selectedText}\"."
+
+ {
+        "language": "2.3. Scope of the Policy",
+        "prompt":"This policy concerns itself with Rwandans and foreigners who wish to offer themselves for national service in different areas of the Good governance, Economy, Justice and Social welfare."
     },
-    {
-        "language": "Korean",
-        "prompt": "당신은 한국어 교사입니다. 다음 문장에서 문법 오류와 그 이유를 지적하십시오: \"{selectedText}\"."
+
+ {
+        "language": "3. Indicative value and contribution of volunteerism to National Development",
+        "prompt":"3. Indicative value and contribution of volunteerism to National Development"
     },
-    {
-        "language": "Hindi",
-        "prompt": "आप हिंदी के शिक्षक हैं। निम्नलिखित वाक्य में व्याकरण संबंधी त्रुटियों और उनके गलत होने का कारण बताएं: \"{selectedText}\"."
+
+ {
+        "language": "3.1. Estimated value of Volunteerism Contribution in selected sectors",
+        "prompt":"The noble contribution of volunteerism to national development can be best \nappreciated if services rendered through this mechanism are given a monetary value. \nWith a conservative estimate on the current 59,368 Community Health Workers and \n150,366 Local Government Officials and Committees each of them working for an \nestimated 100 days in a year, 65,000 Election Process Managers each working for an \nestimated 15 days a year, 5,352 Abunzi officials, 24,000 Gacaca officials and 5000 Red \nCross volunteers each working for an estimated 50 days in year, all at the rate of a token \nFrw 3,000 per day (Frw. 90,000 per month), it would cost the government an estimated \nFrw. 70,998,000,000 per year to deliver the services that are being delivered through \nvolunteerism. \nTable 1: Indicative value of volunteerism contribution to Development \nCategory Number of Volunteers Days worked in a year Rate per day (frw) Total Amount \nCommunity Health Workers 59,368 100 3,000 17,810,400,000 \nLocal Government Officials & Committees 150,366 100 3,000 45,109,800,000 \nElection Process Managers 65,000 15 3,000 2,925,000,000 \nAbunzi 5,352 50 3,000 802,800,000 \nGacaca 24,000 50 3,000 3,600,000,000 \nRwanda Red Cross 5000 50 3,000 750,000,000 \nEstimated Total 70,998,000,000"
     },
-    {
-        "language": "Turkish",
-        "prompt": "Türkçe öğretmenisiniz. Aşağıdaki cümledeki dilbilgisi hatalarını ve neden yanlış olduklarını belirtiniz: \"{selectedText}\"."
+ {
+        "language": "3.2. Volunteer Contribution to GDP",
+        "prompt":"It is indicative from the 2011 GDP figure of 2,540 billion francs that volunteerism contributes more than 30% to the national GDP which is substantial. This excludes contribution by other volunteers like night patrol guards at cell level, civil servants working over time, monthly umuganda, etc."
     },
-    {
-        "language": "Dutch",
-        "prompt": "U bent een Nederlandse leraar. Geef de grammaticale fouten en waarom ze fout zijn in de volgende zin: \"{selectedText}\"."
+
+ {
+        "language": "3.3. Ratio of Volunteer value to Public Sector Wage Bill",
+        "prompt":"In the health sector at district level, the 59,368 community health workers working for 12 months at an estimated monthly salary of Frw. 90,000 would cost government Frw, 64,117,440,000 per year, while the 2,500 salaried district health personnel earning an estimated Frw. 200,000 per month for 12 months costs government Frw. 14,633,088,710 per year (MINECOFIN 2011-2012 wage bill). This means that government is saving three times for the same work provided through volunteer effort in this sector. \nTable 2: Ratio of Volunteer value to Public Sector Wage Bill in selected sectors \nCategory Number of Volunteers Annual Wage bill (Frw.90,000/month) Salaried Employees Annual Wage bill (Frw.200,000/mo nth) Ratio \nCommunity Health Workers 59,368 64,117,440,000 2,500 14,633,088,710 1:4 \nLocal Government Officials & Committees 150,366 162,395,280,000 4,000 940,960,854 1:173 \nElection Process Managers 65,000 70,200,000,000 75 344,794,762 1:204 \nSource: MINECOFIN 2011 – 2012 Wage bill for selected sectors \nFigures in table 2 above indicate that government is saving three times by using volunteer community health workers, more than 170 times by using volunteers in local administrative councils and more than 200 times by using volunteers to run the electoral process."
     },
-    {
-        "language": "Greek",
-        "prompt": "Είστε καθηγητής ελληνικών. Υποδείξτε τα γραμματικά λάθη και γιατί είναι λάθος στην ακόλουθη πρόταση: \"{selectedText}\"."
+
+ {
+        "language": "4. Policy Implementation Strategy",
+        "prompt":"The volunteerism policy shall be implemented through activities of volunteer-using organizations and individual volunteers embracing all sectors of the economy across public sector, private sector and civil society organizations. And this will be done in the following manner;"
     },
-    {
-        "language": "Swedish",
-        "prompt": "Du är en svensklärare. Ange grammatiska fel och varför de är fel i följande mening: \"{selectedText}\"."
+ {
+        "language": "i. Integration of Volunteerism into national development plan and district development plans.",
+        "prompt":"National Itorero Commission (NIC) will develop a framework to facilitate planning officers and other officials at central and local government institutions as well as private and civil society organizations to incorporate the volunteer component in their planning process. Voluntary work will be captured in national development plans, hence activities and targets that will be accomplished through volunteerism will clearly be indicated in the Sector plans, district development plans, at the national level there will be National Itorero Commission (NIC) to ensure harmonized work plan for all sector working groups for volunteerism. Follow up for funds that will be needed to facilitate the accomplishment of the planned targets will also be carried out accordingly to where the funds have been allocated."
     },
-    {
-        "language": "Polish",
-        "prompt": "Jesteś nauczycielem języka polskiego. Wskaż błędy gramatyczne i dlaczego są one błędne w następującym zdaniu: \"{selectedText}\"."
+ {
+        "language": "ii. Awareness and Mobilization of Rwandans to ensure support and participation in policy implementation",
+        "prompt":"The National Itorero Commission (NIC) will establish and implement clear strategy to sensitize policy makers, development management practitioners such as public sector, private sector, civil society organizations and the population on the value and benefits of volunteerism. Media will be used for raising awareness and campaigns to the population on the value and benefits of volunteerism, Seminars, workshops and trainings on volunteerism policy shall be conducted in order to gain popular support. Communication strategy will also be developed for the purpose of creating networking linkage and information flow among volunteers and volunteer using organization within the country and abroad"
     },
-    {
-        "language": "Vietnamese",
-        "prompt": "Bạn là giáo viên tiếng Việt. Chỉ ra lỗi ngữ pháp và lý do chúng sai trong câu sau: \"{selectedText}\"."
+ {
+        "language": "iii. Establish a volunteerism management structure",
+        "prompt":"NIC will establish a clear working management system to avoid overlapping of responsibilities between and among the stakeholders. Also NIC will oversee and coordinate implementation of volunteers and volunteer activities in the country. There will be establishment of volunteer recruitment strategy and manuals to guide the contracting, placement/matching, training/skills development, supervision and appraisal, retention and exit management of volunteers."
     },
-    {
-        "language": "Thai",
-        "prompt": "คุณเป็นครูสอนภาษาไทย ระบุข้อผิดพลาดทางไวยากรณ์และเหตุผลที่พวกเขาผิดในประโยคต่อไปนี้: \"{selectedText}\"."
+ {
+        "language": "iv. Skills development among volunteers",
+        "prompt":"Skills development and relevant expertise in area of volunteerism will be developed among volunteers to serve across different fields. Improve volunteers capacity building to enable them produce both quantity and quality service."
     },
-    {
-        "language": "Hebrew",
-        "prompt": "אתה מורה לעברית. ציין את השגיאות הדקדוקיות ולמה הן שגויות במשפט הבא: \"{selectedText}\"."
+
+ {
+        "language": "v. Establish Guidelines and MoUs related to volunteerism",
+        "prompt":"Volunteerism policy strategy shall work under a technical cooperation framework with Memoranda of Understanding (MoUs) and partnership arrangements between stakeholders and NIC"
+    },
+ {
+        "language": "vi. Establish and update MIS/Data of volunteers",
+        "prompt":"NIC will establish management information system for keeping and recording data base for all volunteers in the country, volunteers work in their respective deployment."
+    },
+
+ {
+        "language": "vii. Monitoring and Evaluation Framework",
+        "prompt":"NIC will ensure that monitoring and evaluation system of volunteers and volunteer work is established. The system will comprehend both summative and formative evaluation."
+    },
+ {
+        "language": "5. Volunteerism Coordination Policy",
+        "prompt":"Given the importance and the cross-cutting nature of the volunteerism policy, it will be implemented through a network of national steering committee. The NIC will take the secretariat role and interface with matters relating to policy implementation, keep and maintain data base of volunteers and volunteer work. NIC through the National steering committee will also consolidate a single action plan for all institutions hosting volunteers and some of these are ; MINISANTE, MINALOC, NEC, MINIJUST, , RNP, NURC, Red Cross , Scouts and many others. NIC will be responsible for coordination, guiding and overseeing the implementation process including but not limited to monitoring and evaluation of the policy implementation process as well as measuring the value of volunteer efforts and overall contribution to the socio-economic contribution to the country. It will also play the advocacy role and will interface with international volunteer organizations. The implementation responsibility shall be accomplished by individual organizational entities and individual volunteers across the public sector, private sector and civil society organizations. For foreign volunteers, National Itorero Commission will work with VSO to facilitate with information on required volunteer skills and the areas of their deployment."
+    },
+
+ {
+        "language": "The roles of stakeholders",
+        "prompt":"The stakeholders in the implementation of volunteerism policy shall work under a technical cooperation framework with such tools as Memoranda of Understanding (MoUs) and partnership arrangements between them and NIC There shall also be performance contracts (Imihigo) between individual policy implementing entities (public sector, private sector and civil society organizations) with the NIC."
+    },
+ {
+        "language": "6. Recognition and promotion of Volunteer work",
+        "prompt":"The National Itorero Commission will provide an appropriate framework for recognition, promotion and facilitation of volunteer activities in Rwanda and abroad The National Itorero Commission through the sector institutions will identify excellent volunteers to be recognized at the national level and to achieve this, NIC will set a criteria and guideline for selecting outstanding volunteers who have exhibited high levels of self giving and sacrifice at each sector level through the decentralized structures. Every sector/Ministry will provide a list to the NIC to arrange for national ceremonies to reorganize people who have shown outstanding levels of sacrifice and self giving to the community."
+    },
+ {
+        "language": "7. Measuring the cost and the value of the volunteers work",
+        "prompt":"National Itorero Commission will develop guidelines and standard templates for use by volunteer-using organizations to enable them assess the socio-economic value resulting from volunteer effort and the associated cost. To achieve this, NIC will obtain a resource center of data base for all volunteers in the country, volunteers work in their respective deployment sectors and their cost value to the economic development of the country. NIC will collaborate with the national institute of statistics of Rwanda to capture all relevant data on volunteerism and this will be done during annual survey."
+    },
+
+ {
+        "language": "SWOT Analysis",
+        "prompt":"SWOT Analysis"
+    },
+
+ {
+        "language": "STRENGTHS-POSITIVE-INTERNAL",
+        "prompt":" Government commitment \n Existing sector volunteerism policies \n International volunteering Organizations’ support \n Willingness of the Rwandan citizens to volunteer motivated by several reasons \n Registered success stories of volunteerism initiatives e.g.Gacaca \n Rwandan culture that embraces volunteerism"
+    },
+ {
+        "language": "OPPORTUNITIES-POSITIVE-EXTERNAL",
+        "prompt":" Development partners willingness to support volunteerism initiative \n Rwandans’ level is rated high in foreign countries where they volunteer for peace missions \n Demand for Rwandans in foreign volunteering missions"
+    },
+
+ {
+        "language": "WEAKNESSES-NEGATIVE-INTERNAL",
+        "prompt":"Institutional level \n Unclear Institutional mechanism to deal with volunteer management and coordination issues (identification, recruitment, deployment, social contracting, monitoring and evaluation etc of volunteers and volunteer work) \n Volunteer work is not captured and addressed in national planning and development agenda \n Limited institutional capacity to support, recognize, protect & network volunteers and volunteer work \n No mechanism for measuring the cost and value of volunteer work (no data on volunteer work in the country) Individual level \n Most members of the public still regard voluntary work as time wastage \n Potential employers do not regard volunteer work as part of work experience for job applicants"
+    },
+
+ {
+        "language": "THREATS-NEGATIVE-EXTERNAL",
+        "prompt":" Opportunists(e.g. shrewd politicians/businessmen) motivated by a hidden agenda masquerading as volunteers \n Conflict with provisions in the local labor and tax laws"
+    },
+
+ {
+        "language": "8. Challenges and measures in Volunteerism policy implementation",
+        "prompt":" \nThe envisaged challenges for implementing the above policy option include:"
+    },
+ {
+        "language": "8.1. Envisaged challenges",
+        "prompt":"a) NIC will have a wide mandate and considering the fact that it is a new institution, achieving these targets set out in this policy might take a long time. \nb) The different sector ministries that use volunteers in the achievement of their targets might not immediately adjust to the fact of being accountable to NIC as far as volunteers are concerned. \nc) There are still minimal levels of patriotism among the citizens and for this policy to succeed there is need for a high level of commitment from the entire Rwandan community."
+    },
+ {
+        "language": "8.2. Mitigating measures for challenges",
+        "prompt":"a) The institutional capacity of NIC will need to be built in order for it to measure up to its tasks. \nb) NIC will have to engage all stakeholders especially sector ministries in drawing up plans and strategies for engaging the volunteers so that there is ownership from both sides \nc) Wide sensitization campaigns and mobilization on volunteerism will be done especially targeting all categories of Rwandans to be able to embrace good values and embrace the spirit of patriotism."
     }
 ]
