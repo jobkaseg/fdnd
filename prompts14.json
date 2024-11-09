@@ -11,5 +11,109 @@
         {
         "language": "Steps in preparing a budget uko bategura budget",
         "prompt": "6.4 Steps in preparing a budget \n \nFollow these steps to prepare a budget: \n \nStep 1: Record all sources of income in a given time period. \n \nStep 2: Create a list of expenses for a given time period. \n \nStep 3: Subtract expenses from income. \n \nStep 4: Review the budget. \n \nStep 5: Make adjustments."
+    },
+    {
+        "language": "Ingingo ya 60: Abanditsi b’irangamimerere",
+        "prompt": "\nIngingo ya 60: Abanditsi b’irangamimerere \n \n(1) Abanditsi b’irangamimerere ni aba bakurikira: \n(a) umukozi ufite irangamimerere mu nshingano ku rwego rw’imitegekere y’Igihugu rwegerejwe abaturage; \n(b) Ambasaderi w’u Rwanda mu mahanga; \n(c) umukozi wo mu kigo cy’ubuvuzi. \n(2) Iteka rya Minisitiri ufite \nirangamimerere mu nshingano rishobora kugena undi muntu ufite inshingano z’umwanditsi w’irangamimerere. \n \nArticle 60: Civil registrars \n \n(1) Civil registrars are the following: \n(a) a civil registrar at the level of a decentralized administrative entity; \n(b) a head of a diplomatic mission of Rwanda abroad; \n(c) an officer of a health facility. \n(2) An Order of the Minister in charge of civil status may determine another person performing the duties of a civil registrar"
+    },
+	    {
+        "language": "Article 67: Types of civil status registers",
+        "prompt": "Article 67: Types of civil status registers \nIngingo ya 67: Ubwoko bw’ibitabo by’irangamimerere \n \n(1) Civil status registers are the following: \n(1) Ibitabo by’irangamimerere ni ibi bikurikira: \n(a) igitabo cy’inyandiko z’amavuko; \n(a) register of birth records; \n(b) igitabo cy’inyandiko z’abapfuye; \n(b) register of death records; \n(c) igitabo cy’inyandiko z’abashyingiranywe \n(c) register of marriage records; \n(d) igitabo cy’inyandiko z’ubwishingire; \n(d) register of guardianship records; \n(e) igitabo cy’inyandiko zerekeye kwemera abana bavutse ku batarashyingiranywe; \n(e) register of records of recognition of children born out of wedlock; \n(f) igitabo cy’inyandiko zerekeye kwemera kubera umubyeyi umwana utabyaye; \n(f) register of adoption records; \n(g) igitabo cy’inyandiko zerekeye ubutane; \n(g) register of divorce records;"
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
+    },
+	    {
+        "language": "",
+        "prompt": ""
     }
 ]
