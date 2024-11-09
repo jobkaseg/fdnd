@@ -1,0 +1,5 @@
+            successMessageDiv.textContent = 'Update failed: ' + response.statusText;
+            successMessageDiv.style.color = 'red';
+            successMessageDiv.style.display = 'block';
+            setTimeout(() => {
+                successMessageDiv.style.display = 'none';
