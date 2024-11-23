@@ -1,4 +1,6 @@
 {
-    "displayPrompter": "kkkkkshowPrompter",
-    "displayPrompter": "showPrompter"
+  "displayPrompter": [
+    "showPrompter",
+    "showPrompter1"
+  ]
 }
