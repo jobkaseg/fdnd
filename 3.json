@@ -1,11 +1,6 @@
 {
-  "validNames": [
-    "0788226254",
-    "0786590602",
-    "0722220326",
-    "0785624140",
-    "0781968187",
-    "showPrompter",
-    "1233"
-  ]
+  "popupType": "prompt-popup-yes",
+  "title": "Text Correction",
+  "message": "Would you like to correct the selected text?",
+  "buttonLabel": "Yes, Correct It"
 }
