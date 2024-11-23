@@ -1,6 +1,3 @@
 {
-  "popupType": "prompt-popup-yes",
-  "title": "Text Correction",
-  "message": "Would you like to correct the selected text?",
-  "buttonLabel": "Yes, Correct It"
+    "displayPrompter": "showPrompter(selectedText)"
 }
