@@ -1,6 +1,3 @@
 {
-  "displayPrompter": [
-    "showPrompter",
-    "showPrompter1"
-  ]
+  "displayPrompter":"showPrompter"
 }
