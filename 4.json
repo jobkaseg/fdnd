@@ -1,11 +1,1 @@
-{
-    "displayPrompter": "showPrompter"
-}
-
-{
-    "displayPrompter": "showSettingsPage"
-}
-
-{
-    "displayPrompter": "None"
-}
+{"displayPrompter": "showSettingsPage"}
