@@ -1,1 +1,3 @@
-{"displayPrompter": "showPrompter"}
+{
+    "prompters": ["Prompter1", "Prompter2", "Prompter3"]
+}
