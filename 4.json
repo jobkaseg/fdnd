@@ -5,7 +5,7 @@
       "title": "AI Assistant",
       "message": "You selected some text. This is Prompter 1."
     },
-    "showPrompter2": {
+    "showPrompter22": {
       "theme": "light",
       "title": "Quick Help",
       "message": "This is Prompter 2 for selected text."
