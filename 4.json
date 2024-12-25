@@ -1,1 +1,12 @@
-{"displayPrompter": "showPrompter"}
+{
+  "displayPrompter": "showPrompter",
+  "settings": {
+    "theme": "dark",
+    "fontSize": "14px",
+    "popupTitle": "AI Assistant"
+  },
+  "messages": {
+    "welcome": "Hello! How can I assist you today?",
+    "error": "Oops! Something went wrong. Please try again."
+  }
+}
