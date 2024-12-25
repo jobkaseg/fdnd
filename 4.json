@@ -1,12 +1,14 @@
 {
-  "displayPrompter": "showPrompter",
-  "settings": {
-    "theme": "dark",
-    "fontSize": "14px",
-    "popupTitle": "AI Assistant"
-  },
-  "messages": {
-    "welcome": "Hello! How can I assist you today?",
-    "error": "Oops! Something went wrong. Please try again."
+  "prompters": {
+    "showPrompter1": {
+      "theme": "dark",
+      "title": "AI Assistant",
+      "message": "You selected some text. This is Prompter 1."
+    },
+    "showPrompter2": {
+      "theme": "light",
+      "title": "Quick Help",
+      "message": "This is Prompter 2 for selected text."
+    }
   }
 }
