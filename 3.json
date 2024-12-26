@@ -1,7 +1,8 @@
 {
     "validNames": [
-        {"prompter": "Prompter1", "name": "John"},
-        {"prompter": "Prompter2", "name": "Jane"},
-        {"prompter": "Prompter3", "name": "Doe"}
+        {"id": 1, "functionName": "showPrompter"},
+        {"id": 2, "functionName": "showErrorPage"},
+        {"id": 3, "functionName": "functionThree"},
+        {"id": 4, "functionName": "functionFour"}
     ]
 }
