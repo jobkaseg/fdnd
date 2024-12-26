@@ -1,1 +1,3 @@
-{"functions": "showPrompter"}
+{
+    "functions": ["exampleFunction", "showVerify"]
+}
