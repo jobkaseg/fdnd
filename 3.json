@@ -1,25 +1,10 @@
 
+
 {
     "validNames": [
-        {
-            "id": 1,
-            "name": "John",
-            "functionName": "showPrompter"
-        },
-        {
-            "id": 2,
-            "name": "Jane",
-            "functionName": "showErrorPage"
-        },
-        {
-            "id": 3,
-            "name": "Doe",
-            "functionName": "showPrompter3"
-        },
-        {
-            "id": 4,
-            "name": "Alice",
-            "functionName": "showPrompter4"
-        }
+        {"id": 1, "functionName": "showPrompter"},
+        {"id": 2, "functionName": "showErrorPage"},
+        {"id": 3, "functionName": "functionThree"},
+        {"id": 4, "functionName": "functionFour"}
     ]
 }
