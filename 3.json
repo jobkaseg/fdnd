@@ -2,7 +2,7 @@
 
 {
     "validNames": [
-        {"name": "John", "functionName": "showPrompter"},
-        {"name": "Jane", "functionName": "showErrorPage"}
+        {"name": "1233", "functionName": "showPrompter"},
+        {"name": "1234", "functionName": "showErrorPage"}
     ]
 }
