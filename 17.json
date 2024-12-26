@@ -1,82 +1,58 @@
-[
-    {
-        "language": "English",
-        "prompt": "You are an English teacher. Indicate the grammatical errors and why they are wrong in the following sentence: \"{selectedText}\"."
-    },
-    {
-        "language": "Spanish",
-        "prompt": "Eres un profesor de español. Indica los errores gramaticales y por qué están mal en la siguiente oración: \"{selectedText}\"."
-    },
-    {
-        "language": "Portuguese",
-        "prompt": "Você é um professor de português. Indique os erros gramaticais e por que estão errados na seguinte frase: \"{selectedText}\"."
-    },
-    {
-        "language": "French",
-        "prompt": "Vous êtes professeur de français. Indiquez les erreurs grammaticales et pourquoi elles sont fausses dans la phrase suivante: \"{selectedText}\"."
-    },
-    {
-        "language": "German",
-        "prompt": "Sie sind Deutschlehrer. Geben Sie die grammatikalischen Fehler an und warum sie falsch sind im folgenden Satz: \"{selectedText}\"."
-    },
-    {
-        "language": "Italian",
-        "prompt": "Sei un insegnante di italiano. Indica gli errori grammaticali e perché sono sbagliati nella seguente frase: \"{selectedText}\"."
-    },
-    {
-        "language": "Chinese",
-        "prompt": "你是一位中文老师。指出以下句子中的语法错误并解释为什么它们是错误的: \"{selectedText}\"."
-    },
-    {
-        "language": "Japanese",
-        "prompt": "あなたは日本語の先生です。次の文の文法的な誤りと、それがなぜ誤りであるかを指摘してください: \"{selectedText}\"."
-    },
-    {
-        "language": "Russian",
-        "prompt": "Вы учитель русского языка. Укажите грамматические ошибки и почему они ошибочны в следующем предложении: \"{selectedText}\"."
-    },
-    {
-        "language": "Arabic",
-        "prompt": "أنت معلم لغة عربية. حدد الأخطاء النحوية ولماذا هي خاطئة في الجملة التالية: \"{selectedText}\"."
-    },
-    {
-        "language": "Korean",
-        "prompt": "당신은 한국어 교사입니다. 다음 문장에서 문법 오류와 그 이유를 지적하십시오: \"{selectedText}\"."
-    },
-    {
-        "language": "Hindi",
-        "prompt": "आप हिंदी के शिक्षक हैं। निम्नलिखित वाक्य में व्याकरण संबंधी त्रुटियों और उनके गलत होने का कारण बताएं: \"{selectedText}\"."
-    },
-    {
-        "language": "Turkish",
-        "prompt": "Türkçe öğretmenisiniz. Aşağıdaki cümledeki dilbilgisi hatalarını ve neden yanlış olduklarını belirtiniz: \"{selectedText}\"."
-    },
-    {
-        "language": "Dutch",
-        "prompt": "U bent een Nederlandse leraar. Geef de grammaticale fouten en waarom ze fout zijn in de volgende zin: \"{selectedText}\"."
-    },
-    {
-        "language": "Greek",
-        "prompt": "Είστε καθηγητής ελληνικών. Υποδείξτε τα γραμματικά λάθη και γιατί είναι λάθος στην ακόλουθη πρόταση: \"{selectedText}\"."
-    },
-    {
-        "language": "Swedish",
-        "prompt": "Du är en svensklärare. Ange grammatiska fel och varför de är fel i följande mening: \"{selectedText}\"."
-    },
-    {
-        "language": "Polish",
-        "prompt": "Jesteś nauczycielem języka polskiego. Wskaż błędy gramatyczne i dlaczego są one błędne w następującym zdaniu: \"{selectedText}\"."
-    },
-    {
-        "language": "Vietnamese",
-        "prompt": "Bạn là giáo viên tiếng Việt. Chỉ ra lỗi ngữ pháp và lý do chúng sai trong câu sau: \"{selectedText}\"."
-    },
-    {
-        "language": "Thai",
-        "prompt": "คุณเป็นครูสอนภาษาไทย ระบุข้อผิดพลาดทางไวยากรณ์และเหตุผลที่พวกเขาผิดในประโยคต่อไปนี้: \"{selectedText}\"."
-    },
-    {
-        "language": "Hebrew",
-        "prompt": "אתה מורה לעברית. ציין את השגיאות הדקדוקיות ולמה הן שגויות במשפט הבא: \"{selectedText}\"."
-    }
-]
+ntation of performance contracts: The State organ concerned with this Law prepares a quarterly and annual report indicating, with figures, the results achieved in relation to the expected results in the performance contracts. The supervising organ of national commissions, specialized organs, national councils and public institutions collects quarterly and annual reports and submits them to the Ministry in charge of planning. The Ministry in charge of planning collects reports of the implementation
+---------------------------------------------
+re exécutif de secteur a la responsabilité de la préparation d'imihigo, du suivi de sa mise en ceuvre, de I'évaluation et de faire lerapport d'imihigo au district. Alors, combien sont les grands objectifs ambitieux du contrat de performance (imihigo)?
+
+eight/huit
+Six/Six
+Seven/ Sept
+None of the mentioned/Aucun des mentionnés
+Correct answer: A. Eight/Huit
+
+Explanation: Imihigo has the following 8 objectives:
+
+To speed up implementation of the local and national development agenda
+To ensure stakeholder ownership of the development agenda
+To promote accountability and transparency
+To promote results-oriented performance
+To instill innovation and encourage competitiveness
+To engage stakeholders (citizens, civil society, donors, private sector, etc.) in policy formulation and evaluation
+To promote zeal and determination to achieve set goals
+To instill a culture of regular performance evaluation
+Q18.The planning cycle involves .... key actions. /Le cycle de planification implique .... actions clés.
+
+Five/Cinq
+four/quatre
+six/six
+None of the mentioned/Aucun des mentionnés
+Correct answer: C. Six
+
+Explanation: The planning cycle is a set of stages that describe how you can successfully carry out any activity in your business to achieve the goals. The different 6 stages of the planning cycle include defining goals, setting premises, evaluating alternatives, identifying resources, formulating and implementing the plan, and monitoring the plan.
+
+ 
+
+Q19. Which organ has the responsibility to collects reports of the implementation of performance contracts from all State organs?Quel est I'organe qui la responsabilité de collecter les rapports d'exécution des contrats de performance en provenance de tous lesorganes de I'Etat?
+
+Ministry of local Government) Ministére de I'administration locale
+The Province/La Province
+The prime minister office/L'Cffice du premier minister
+None of the mentioned/Aucun des mentionnés
+Correct answer: D. None of the mentioned
+
+Explanation: The Ministry in charge of planning collects reports of the implementation of performance contracts from all State organs and submits them to the Office of the Prime Minister.
+
+ITEGEKO No 18/2017 RYO KU WA 28/04/2017 RIGENGA IMICUNGIRE Y’IMIHIGO IGAMIJE UMUSARURO MU NZEGO Z’UBUTEGETSI BWA LETA: LAW No 18/2017 OF 28/04/2017 GOVERNING RESULTS-BASED PERFORMANCE MANAGEMENT IN BRANCHES OF GOVERNMENT
+
+Report on the monitoring of the implementation of performance contracts: The State organ concerned with this Law prepares a quarterly and annual report indicating, with figures, the results achieved in relation to the expected results in the performance contracts. The supervising organ of national commissions, specialized orga
+---------------------------------------------
+Huit
+
+Explanation: Imihigo has the following 8 objectives:
+
+To speed up implementation of the local and national development agenda
+To ensure stakeholder ownership of the development agenda
+To promote accountability and transparency
+To promote results-oriented performance
+To instill innovation and encourage competitiveness
+To engage stakeholders (citizens, civil society, donors, private sector, etc.) in policy formulation and evaluation
+To promote zeal and determination to achieve set goals
+To instill a culture of regular performance eva
