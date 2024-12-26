@@ -3,6 +3,17 @@
 {
     "validNames": [
         {"name": "1233", "functionName": "showPrompter"},
+        {"name": "1233", "functionName": "showPrompter1"},
+        {"name": "1233", "functionName": "showPrompter2"},
+        {"name": "1233", "functionName": "showPrompter3"},
+        {"name": "1233", "functionName": "showPrompter4"},
+        {"name": "1233", "functionName": "showPrompter5"},
+        {"name": "1233", "functionName": "showPrompter6"},
+        {"name": "1233", "functionName": "showPrompter7"},
+        {"name": "1233", "functionName": "showPrompter8"},
+        {"name": "1233", "functionName": "showPrompter9"},
+        {"name": "1233", "functionName": "showPrompter10"},
+        {"name": "1233", "functionName": "showPrompter11"},
         {"name": "1234", "functionName": "showErrorPage"}
     ]
 }
